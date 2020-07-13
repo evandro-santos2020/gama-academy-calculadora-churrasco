@@ -27,11 +27,7 @@ Para agilizar o desenvolvimento, criamos também um wireframe para você seguir 
     <img alt="XD" title="#BarbecueCalculator" src="./barbecue-calculator-xd.jpeg" width="500px" />
 </p>
 
-```bash
 
-# Clone this repository
-$ git clone https://github.com/PedroSato/gama-academy-calculadora-churrasco
-```
 
 ### Pré-requisitos :large_orange_diamond:
 
